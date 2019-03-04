@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+}
+
+#canvas-container {
+  background: white;
+  overflow: hidden;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  display: block;
+}
